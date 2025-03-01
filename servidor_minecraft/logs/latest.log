@@ -3783,3 +3783,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Mar2025 02:02:12.813] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
 [01Mar2025 02:02:12.813] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
 [01Mar2025 02:02:12.814] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[01Mar2025 02:05:09.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Disturbing the Dead I]
+[01Mar2025 02:05:13.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [First Village]
+[01Mar2025 02:05:17.373] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Mar2025 02:05:17.373] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Mar2025 02:05:17.421] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=236, y=3, z=183}
+[01Mar2025 02:05:31.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14906ms or 298 ticks behind
+[01Mar2025 02:07:15.883] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[01Mar2025 02:07:15.884] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[01Mar2025 02:08:21.128] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/xkmc/l2damagetracker/contents/attack/LogHelper$Type
+[01Mar2025 02:08:21.131] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/integration/curios/ICuriosApi
+[01Mar2025 02:08:45.794] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[01Mar2025 02:08:55.790] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/xkmc/l2screentracker/screen/base/MenuTriggerType
+[01Mar2025 02:08:56.738] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/xkmc/l2screentracker/screen/base/ClientCloseResult
+[01Mar2025 02:09:57.526] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/158, l='ServerLevel[world]', x=131.50, y=68.30, z=101.50] died, message: 'Unemployed was slain by Zombie Bruiser'
+[01Mar2025 02:11:33.479] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/220, l='ServerLevel[world]', x=181.19, y=66.00, z=57.59] died, message: 'Unemployed died whilst trying to escape The Spitter'
+[01Mar2025 02:12:15.888] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[01Mar2025 02:12:15.888] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[01Mar2025 02:12:54.531] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/209, l='ServerLevel[world]', x=74.34, y=71.00, z=157.50] died, message: 'Florist was slain by Decaying Zombie'
+[01Mar2025 02:13:08.674] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/134, l='ServerLevel[world]', x=78.59, y=67.00, z=56.43] died, message: 'Beekeeper was slain by Decaying Zombie'
+[01Mar2025 02:13:25.465] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[01Mar2025 02:14:17.325] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter'/153, l='ServerLevel[world]', x=66.32, y=65.00, z=129.29] died, message: 'Hunter was slain by Equestrian'
+[01Mar2025 02:14:26.327] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/202, l='ServerLevel[world]', x=57.36, y=65.00, z=108.32] died, message: 'Florist was slain by Equestrian'
+[01Mar2025 02:14:51.665] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[01Mar2025 02:15:03.428] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[01Mar2025 02:15:03.429] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[01Mar2025 02:15:03.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii fell from a high place

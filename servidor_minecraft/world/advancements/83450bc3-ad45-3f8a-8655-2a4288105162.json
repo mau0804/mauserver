@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "morevillagers:first_village": {
+    "criteria": {
+      "plains": "2025-03-01 02:05:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-03-01 01:57:10 +0000"
@@ -550,6 +556,12 @@
       "has_journal": "2025-03-01 01:57:10 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "plains": "2025-03-01 02:05:13 +0000"
+    },
+    "done": false
   },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
@@ -1475,6 +1487,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/medium_graveyard": {
+    "criteria": {
+      "medium_graveyard": "2025-03-01 02:05:09 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/fire_essence_to_charge": {
     "criteria": {
       "has_journal": "2025-03-01 01:57:10 +0000"
@@ -1580,6 +1598,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-03-01 01:57:10 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-03-01 02:08:48 +0000"
     },
     "done": true
   },
@@ -1771,7 +1795,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:flower_forest": "2025-03-01 01:57:12 +0000"
+      "minecraft:flower_forest": "2025-03-01 01:57:12 +0000",
+      "minecraft:plains": "2025-03-01 02:07:45 +0000"
     },
     "done": false
   },
