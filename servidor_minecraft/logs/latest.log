@@ -2612,3 +2612,165 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Mar2025 01:34:29.765] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
 [02Mar2025 01:34:36.209] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
 [02Mar2025 01:34:37.909] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[02Mar2025 01:35:04.873] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[02Mar2025 01:35:04.874] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[02Mar2025 01:35:04.881] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
+[02Mar2025 01:35:07.508] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[02Mar2025 01:35:15.667] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/integration/curios/ICuriosApi
+[02Mar2025 01:35:28.966] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[02Mar2025 01:35:28.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii was slain by The Moonflower
+[02Mar2025 01:36:40.169] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Mar2025 01:36:40.169] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Mar2025 01:36:41.650] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[02Mar2025 01:36:41.651] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[02Mar2025 01:36:41.651] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[02Mar2025 01:36:41.651] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 200
+[02Mar2025 01:36:41.651] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 175
+[02Mar2025 01:36:41.651] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[02Mar2025 01:36:41.651] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[02Mar2025 01:36:41.651] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[02Mar2025 01:39:46.166] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[02Mar2025 01:39:52.724] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Mar2025 01:39:52.731] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=838, z=1073200}"
+}
+[02Mar2025 01:39:52.731] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 25 extra bytes: 
+[02Mar2025 01:39:52.733] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-94, -66, 80, -38, 95, 56, 10, -55, -6, -62, -10, -108, 119, -17, 54, 112, -54, -78, -37, -59, 57, -86, -116, 23, -128]"
+]
+[02Mar2025 01:39:52.833] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Mar2025 01:39:52.833] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=972, z=1073200}"
+}
+[02Mar2025 01:39:52.833] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 122 extra bytes: 
+[02Mar2025 01:39:52.834] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "1I\\fnGorz>At 8x&v'$W=/$au-o&+/,0/526.ip."
+]
+[02Mar2025 01:40:08.532] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Mar2025 01:40:08.532] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=842, z=1122352}"
+}
+[02Mar2025 01:40:08.532] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[02Mar2025 01:40:08.533] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-39, -47, -116, -82, 11, -114, -126, 66, 50, -82, 88]"
+]
+[02Mar2025 01:40:09.093] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Mar2025 01:40:09.093] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=860, z=905264}"
+}
+[02Mar2025 01:40:09.094] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 104 extra bytes: 
+[02Mar2025 01:40:09.094] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "0{5FlEtu-!nWah2$+=/8,0/g9j<#f"
+]
+[02Mar2025 01:40:09.094] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundTeleportToEntityPacket  id 48 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Mar2025 01:40:09.094] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134677_": "987bcf02-3546-a2bb-ee6c-954507e88474"
+}
+[02Mar2025 01:40:09.094] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 48 data of 126 extra bytes: 
+[02Mar2025 01:40:09.095] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "u-!nWah2$+=/8,0/g9j<#f3(k5@L"
+]
+[02Mar2025 01:40:09.095] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Mar2025 01:40:09.095] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 117,
+  "f_133799_": "BlockPos{x=-23546117, y=14, z=-8251680}"
+}
+[02Mar2025 01:40:09.095] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 136 extra bytes: 
+[02Mar2025 01:40:09.095] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Wah2$+=/8,0/g9j<#f3(k5@L26.ip.gl.ply.gg"
+]
+[02Mar2025 01:40:09.096] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Mar2025 01:40:09.096] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 104
+}
+[02Mar2025 01:40:09.096] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 135 extra bytes: 
+[02Mar2025 01:40:09.096] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "2$+=/8,0/g9j<#f3(k5@L26.ip.gl.ply.gg"
+]
+[02Mar2025 01:40:09.097] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Mar2025 01:40:09.097] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 50
+}
+[02Mar2025 01:40:09.097] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 133 extra bytes: 
+[02Mar2025 01:40:09.097] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "$+=/8,0/g9j<#f3(k5@L26.ip.gl.ply.gg"
+]
+[02Mar2025 01:40:09.097] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Mar2025 01:40:09.097] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 61
+}
+[02Mar2025 01:40:09.098] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 148 extra bytes: 
+[02Mar2025 01:40:09.098] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "/8,0/g9j<#f3(k5@L26.ip.gl.ply.gg"
+]
+[02Mar2025 01:40:09.098] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Mar2025 01:40:09.098] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 19
+}
+[02Mar2025 01:40:09.098] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 147 extra bytes: 
+[02Mar2025 01:40:09.099] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "/8,0/g9j<#f3(k5@L26.ip.gl.ply.gg"
+]
+[02Mar2025 01:40:09.099] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Mar2025 01:40:09.099] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 56
+}
+[02Mar2025 01:40:09.100] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 149 extra bytes: 
+[02Mar2025 01:40:09.100] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ",0/g9j<#f3(k5@L26.ip.gl.ply.gg"
+]
+[02Mar2025 01:40:09.696] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Mar2025 01:40:09.697] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=791, z=856112}"
+}
+[02Mar2025 01:40:09.697] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 87 extra bytes: 
+[02Mar2025 01:40:09.697] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "N{V>Sp;*$(<tH\\8,0+/$(k#'g93=<5/"
+]
+[02Mar2025 01:40:43.702] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[02Mar2025 01:41:40.172] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Mar2025 01:41:40.172] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Mar2025 01:42:14.761] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuwii lost connection: Timed out
+[02Mar2025 01:42:14.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii left the game
+[02Mar2025 01:42:14.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii died
+[02Mar2025 01:42:14.770] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Shuwii
+[02Mar2025 01:42:14.833] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Mar2025 01:44:11.006] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@e4a62a[id=<null>,name=Shuwii,properties={},legacy=false] (/127.100.45.138:34661) lost connection: Disconnected
+[02Mar2025 01:44:31.032] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shuwii[/127.100.45.138:57535] logged in with entity id 3873 at (-148.1311058953229, 83.0, -321.0478484778037)
+[02Mar2025 01:44:31.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii joined the game
+[02Mar2025 01:44:31.066] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Shuwii
+[02Mar2025 01:44:31.070] [Server thread/INFO] [Jade/]: Syncing config to Shuwii (83450bc3-ad45-3f8a-8655-2a4288105162)
+[02Mar2025 01:44:31.550] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Shuwii
+[02Mar2025 01:44:31.572] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Shuwii (18)
+[02Mar2025 01:44:31.573] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Shuwii
