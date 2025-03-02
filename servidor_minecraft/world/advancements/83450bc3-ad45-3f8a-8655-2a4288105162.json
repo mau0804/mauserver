@@ -3619,6 +3619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-02 04:11:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-03-02 03:00:01 +0000"
@@ -3640,6 +3646,12 @@
   "securitycraft:recipes/transportation/track_mine": {
     "criteria": {
       "has_iron": "2025-03-02 03:00:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-02 04:12:12 +0000"
     },
     "done": true
   },
@@ -3772,6 +3784,12 @@
   "securitycraft:recipes/redstone/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-03-02 03:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-03-02 04:06:01 +0000"
     },
     "done": true
   },
@@ -3943,6 +3961,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-02 04:06:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-03-02 03:00:43 +0000"
@@ -4108,6 +4132,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-03-02 03:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-02 04:12:12 +0000"
     },
     "done": true
   },
@@ -4345,6 +4375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-02 04:06:01 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/socotra_boat": {
     "criteria": {
       "in_water": "2025-03-02 02:57:17 +0000"
@@ -4405,9 +4441,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-03-02 04:12:09 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-03-02 02:53:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-03-02 04:06:01 +0000"
     },
     "done": true
   },
@@ -4567,6 +4615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-02 04:06:01 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/canopy_boat": {
     "criteria": {
       "in_water": "2025-03-02 02:57:17 +0000"
@@ -4624,6 +4678,12 @@
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-03-02 04:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-03-02 04:12:12 +0000"
     },
     "done": true
   },
@@ -4708,6 +4768,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-03-02 03:57:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-02 04:12:09 +0000"
     },
     "done": true
   },
@@ -4843,6 +4909,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-02 04:12:09 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_bud": {
     "criteria": {
       "has_redstone": "2025-03-02 03:50:02 +0000"
@@ -4927,6 +4999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-03-02 04:06:01 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/bone_pile": {
     "criteria": {
       "has_bone": "2025-03-02 04:01:10 +0000"
@@ -4939,6 +5017,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/hunting_post": {
+    "criteria": {
+      "has_arrow": "2025-03-02 04:05:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-03-02 02:58:33 +0000"
@@ -4948,6 +5032,12 @@
   "regions_unexplored:recipes/decorations/spruce_shrub": {
     "criteria": {
       "has_spruce_sapling": "2025-03-02 02:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-03-02 04:06:01 +0000"
     },
     "done": true
   },
@@ -5079,6 +5169,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-03-02 04:03:24 +0000",
+      "minecraft:spider": "2025-03-02 04:03:26 +0000",
       "minecraft:cave_spider": "2025-03-02 03:34:51 +0000",
       "minecraft:silverfish": "2025-03-02 02:41:26 +0000",
       "minecraft:stray": "2025-03-02 03:30:09 +0000",
@@ -5215,6 +5307,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-02 03:37:10 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2025-03-02 04:11:59 +0000"
     },
     "done": true
   },
@@ -5356,6 +5454,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-02 04:12:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2025-03-02 03:50:02 +0000"
@@ -5470,6 +5574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-02 04:06:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2025-03-02 03:00:01 +0000"
@@ -5539,6 +5649,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-03-02 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/diffusion/diffusion/nether_quartz_ore": {
+    "criteria": {
+      "has_quartz_block": "2025-03-02 04:06:01 +0000"
     },
     "done": true
   },
@@ -5635,6 +5751,12 @@
   "twilightforest:recipes/decorations/iron_ladder": {
     "criteria": {
       "has_iron_bars": "2025-03-02 02:58:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-02 04:12:09 +0000"
     },
     "done": true
   },
@@ -5749,6 +5871,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-03-02 03:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-02 04:12:12 +0000"
     },
     "done": true
   },
@@ -5890,6 +6018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-02 04:06:01 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-03-02 02:57:17 +0000"
@@ -6028,6 +6162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-03-02 04:06:01 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/orange_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-03-02 02:53:53 +0000"
@@ -6043,6 +6183,12 @@
   "l2weaponry:recipes/tools/generated/craft/iron_claw_enchanted": {
     "criteria": {
       "has_iron_ingot": "2025-03-02 03:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-03-02 04:06:01 +0000"
     },
     "done": true
   },
@@ -6328,6 +6474,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-03-02 03:02:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-03-02 04:12:09 +0000"
     },
     "done": true
   },

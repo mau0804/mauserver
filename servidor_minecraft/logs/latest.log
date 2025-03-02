@@ -6504,3 +6504,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Mar2025 04:01:41.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS has reached the goal [Fighting Nightmares]
 [02Mar2025 04:02:46.357] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [02Mar2025 04:02:46.357] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Mar2025 04:07:46.354] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Mar2025 04:07:46.355] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Mar2025 04:08:11.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS has made the advancement [Night Night]
+[02Mar2025 04:12:46.344] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Mar2025 04:12:46.344] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Mar2025 04:13:11.424] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Engineer'/18213, l='ServerLevel[world]', x=221.57, y=70.00, z=-387.55] died, message: 'Engineer was shot by Guard'
+[02Mar2025 04:15:14.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS has completed the challenge [I'm not sugar coating it]
+[02Mar2025 04:15:16.707] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[02Mar2025 04:15:49.723] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Engineer'/18254, l='ServerLevel[world]', x=180.56, y=79.00, z=-459.02] died, message: 'Engineer was slain by Decaying Zombie'
