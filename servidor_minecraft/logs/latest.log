@@ -3866,3 +3866,45 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Mar2025 03:14:19.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS has made the advancement [Crops of the Wild]
 [02Mar2025 03:14:20.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> toma
 [02Mar2025 03:15:15.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> tendre que comer carne cruda
+[02Mar2025 03:15:42.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Let's Get To Work]
+[02Mar2025 03:15:44.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> cocinala
+[02Mar2025 03:15:54.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> mira
+[02Mar2025 03:16:00.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Bypassing the Expiration Date]
+[02Mar2025 03:16:34.162] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[02Mar2025 03:16:39.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS has made the advancement [First Village]
+[02Mar2025 03:16:46.031] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forester'/9085, l='ServerLevel[world]', x=118.50, y=103.00, z=-439.91] died, message: 'Forester was shot by Illusioner'
+[02Mar2025 03:17:38.248] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[02Mar2025 03:17:38.358] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[02Mar2025 03:17:38.423] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[02Mar2025 03:17:38.427] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[02Mar2025 03:17:38.436] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[02Mar2025 03:17:38.528] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[02Mar2025 03:17:38.609] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[02Mar2025 03:17:38.618] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[02Mar2025 03:17:38.618] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[02Mar2025 03:17:41.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [First Village]
+[02Mar2025 03:17:46.355] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Mar2025 03:17:46.356] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Mar2025 03:17:54.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> comia
+[02Mar2025 03:18:14.869] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forester'/8947, l='ServerLevel[world]', x=161.31, y=86.00, z=-422.70] died, message: 'Forester was slain by Sucker'
+[02Mar2025 03:18:19.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> mira
+[02Mar2025 03:18:36.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS has made the advancement [Isn't It Iron Pick]
+[02Mar2025 03:18:47.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> tienes que volver a colocar el minecraft
+[02Mar2025 03:18:54.770] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/9288, l='ServerLevel[world]', x=184.55, y=32.00, z=-384.30] died, message: 'Nitwit was slain by Sprinter'
+[02Mar2025 03:18:57.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> t poner en el tlauncher skin de minecraft
+[02Mar2025 03:19:01.318] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Engineer'/8897, l='ServerLevel[world]', x=150.94, y=61.00, z=-386.78] died, message: 'Engineer hit the ground too hard'
+[02Mar2025 03:19:12.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> para que veas mi skin sensual
+[02Mar2025 03:20:22.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS has made the advancement [Sweet Dreams]
+[02Mar2025 03:20:45.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Sweet Dreams]
+[02Mar2025 03:21:40.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> esto es mas aventura q tcnico
+[02Mar2025 03:21:49.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS has made the advancement [Amateur Archaeologist]
+[02Mar2025 03:22:02.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> a la mierda
+[02Mar2025 03:22:05.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> q eres
+[02Mar2025 03:22:33.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> tas en discord
+[02Mar2025 03:22:46.339] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Mar2025 03:22:46.339] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Mar2025 03:23:05.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> no veo chat de vox
+[02Mar2025 03:23:07.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> en discord
+[02Mar2025 03:23:24.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> donde es eso
+[02Mar2025 03:23:46.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> todos estan con candados
+[02Mar2025 03:23:59.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> osea no tengo permisos

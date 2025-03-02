@@ -3401,6 +3401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-03-02 03:21:16 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-03-02 02:57:17 +0000"
@@ -3497,6 +3503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-03-02 03:21:16 +0000"
+    },
+    "done": true
+  },
   "immersive_aircraft:misc/aircraftery": {
     "criteria": {
       "has_item": "2025-03-02 03:00:09 +0000"
@@ -3521,6 +3533,12 @@
     },
     "done": true
   },
+  "morevillagers:first_village": {
+    "criteria": {
+      "snowy": "2025-03-02 03:17:41 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/copper_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2025-03-02 03:00:09 +0000"
@@ -3542,6 +3560,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-03-02 03:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-02 03:20:45 +0000"
     },
     "done": true
   },
@@ -3611,6 +3635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-03-02 03:21:16 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-03-02 02:53:53 +0000"
@@ -3620,6 +3650,12 @@
   "valhelsia_furniture:recipes/decorations/pink_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-03-02 02:53:53 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/decorations/gloom_o_lantern": {
+    "criteria": {
+      "has_torch": "2025-03-02 03:19:27 +0000"
     },
     "done": true
   },
@@ -3833,6 +3869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-03-02 03:21:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-02 02:41:38 +0000"
@@ -4031,6 +4073,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-03-02 03:21:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-03-02 03:00:01 +0000"
@@ -4042,6 +4090,12 @@
       "has_item": "2025-03-02 03:02:45 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "smoker": "2025-03-02 03:15:42 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
@@ -4084,6 +4138,12 @@
       "has_furnace": "2025-03-02 03:02:13 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "snowy": "2025-03-02 03:17:41 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
@@ -4352,6 +4412,12 @@
   "valhelsia_structures:recipes/building_blocks/magenta_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-03-02 03:00:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-03-02 03:21:16 +0000"
     },
     "done": true
   },
@@ -4770,6 +4836,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-03-02 03:21:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-03-02 02:52:47 +0000"
@@ -4830,6 +4902,12 @@
     },
     "done": true
   },
+  "hangglider:recipes/tools/glider_wing": {
+    "criteria": {
+      "has_leather": "2025-03-02 03:21:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-03-02 03:02:45 +0000"
@@ -4845,6 +4923,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-03-02 03:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-03-02 03:21:16 +0000"
     },
     "done": true
   },
@@ -4887,6 +4971,12 @@
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-02 03:11:09 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/explorers_tent": {
+    "criteria": {
+      "has_leather": "2025-03-02 03:21:16 +0000"
     },
     "done": true
   },
@@ -4998,6 +5088,12 @@
     },
     "done": true
   },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "smoker": "2025-03-02 03:15:42 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/twilight_oak_boat": {
     "criteria": {
       "in_water": "2025-03-02 02:57:17 +0000"
@@ -5025,6 +5121,12 @@
   "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
       "has_item": "2025-03-02 02:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-03-02 03:21:16 +0000"
     },
     "done": true
   },
@@ -5250,9 +5352,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-03-02 03:19:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-03-02 02:53:53 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-03-02 03:16:00 +0000"
     },
     "done": true
   },
