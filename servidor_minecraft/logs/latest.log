@@ -3802,3 +3802,44 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Mar2025 02:54:40.940] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tallestegg/guardvillagers/entities/ai/goals/RangedCrossbowAttackPassiveGoal$CrossbowState
 [02Mar2025 02:54:59.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> a no
 [02Mar2025 02:55:01.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> una casa
+[02Mar2025 02:55:16.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS has made the advancement [World of illusion]
+[02Mar2025 02:55:29.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> cohino
+[02Mar2025 02:55:35.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Local Brewery]
+[02Mar2025 02:55:50.385] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=808, y=-59, z=866}
+[02Mar2025 02:55:50.385] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=809, y=-59, z=867}
+[02Mar2025 02:55:50.385] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=807, y=-59, z=867}
+[02Mar2025 02:55:50.415] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
+[02Mar2025 02:55:56.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> andaban eran pobres
+[02Mar2025 02:56:09.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> torre
+[02Mar2025 02:56:10.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS has made the advancement [Let's Get To Work]
+[02Mar2025 02:56:31.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> una dungeon
+[02Mar2025 02:57:12.327] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[02Mar2025 02:57:12.328] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[02Mar2025 02:57:27.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> era un tontito
+[02Mar2025 02:57:42.386] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Mar2025 02:57:42.387] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Mar2025 02:57:46.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3989ms or 79 ticks behind
+[02Mar2025 02:58:11.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> solo 1 slot
+[02Mar2025 02:58:21.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> hay que hacernos mochilas
+[02Mar2025 02:58:25.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> esas si son potentes
+[02Mar2025 02:58:40.106] [IO-Worker-28/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/nbt/StreamTagVisitor$ValueResult
+[02Mar2025 02:58:40.107] [IO-Worker-28/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/nbt/StreamTagVisitor$EntryResult
+[02Mar2025 02:59:23.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> ñelda
+[02Mar2025 02:59:42.972] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[02Mar2025 02:59:49.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Vampire Slayer]
+[02Mar2025 02:59:59.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS has made the advancement [Monster Hunter]
+[02Mar2025 03:00:09.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Acquire Hardware]
+[02Mar2025 03:00:12.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Amateur Archaeologist]
+[02Mar2025 03:00:18.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS has made the advancement [Take Aim]
+[02Mar2025 03:00:21.828] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[02Mar2025 03:00:23.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> q
+[02Mar2025 03:00:38.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> ñellllda
+[02Mar2025 03:01:16.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shuwii: Teleported MRCHSSS to Shuwii]
+[02Mar2025 03:01:33.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> dame manzanas
+[02Mar2025 03:01:49.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> mira mi chapatines
+[02Mar2025 03:02:46.340] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Mar2025 03:02:46.340] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Mar2025 03:02:50.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> deja ese dragon raro
+[02Mar2025 03:03:09.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> mldta puta
+[02Mar2025 03:03:17.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii was slain by Dragon
+[02Mar2025 03:03:48.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS was slain by Dragon

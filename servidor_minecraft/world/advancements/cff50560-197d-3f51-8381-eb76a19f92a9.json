@@ -1843,7 +1843,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:snowy_plains": "2025-03-02 02:45:53 +0000"
+      "minecraft:frozen_river": "2025-03-02 02:54:25 +0000",
+      "minecraft:snowy_plains": "2025-03-02 02:45:53 +0000",
+      "minecraft:snowy_taiga": "2025-03-02 02:54:59 +0000"
     },
     "done": false
   },
@@ -1862,6 +1864,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-03-02 02:49:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
     },
     "done": true
   },
@@ -1895,6 +1903,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_iron_bars": "2025-03-02 02:57:06 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/dungeon_sword": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
@@ -1925,6 +1939,24 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/magnolia_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-02 03:00:18 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/grongle_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/lime_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-03-02 02:49:53 +0000"
@@ -1937,9 +1969,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-03-02 02:55:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-03-02 02:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-03-02 02:55:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
     },
     "done": true
   },
@@ -1967,6 +2017,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-03-02 02:57:38 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-03-02 02:49:53 +0000"
@@ -1982,6 +2038,12 @@
   "valhelsia_furniture:recipes/decorations/pink_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-03-02 02:49:53 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/decorations/gloom_o_lantern": {
+    "criteria": {
+      "has_torch": "2025-03-02 02:57:37 +0000"
     },
     "done": true
   },
@@ -2099,6 +2161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-02 02:56:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-03-02 02:49:48 +0000"
@@ -2120,6 +2188,12 @@
   "composite_material:recipes/composite_material/obsidian_axe": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
     },
     "done": true
   },
@@ -2156,6 +2230,18 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-02 02:50:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-02 02:56:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-02 03:01:28 +0000"
     },
     "done": true
   },
@@ -2219,6 +2305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/red_painted_planks": {
     "criteria": {
       "has_planks": "2025-03-02 02:49:53 +0000"
@@ -2237,6 +2329,24 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_leggings": "2025-03-02 02:58:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/combat/slingshot": {
     "criteria": {
       "has_stick": "2025-03-02 02:49:48 +0000"
@@ -2246,6 +2356,12 @@
   "composite_material:recipes/composite_material/allay_steel_boots": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-02 02:55:47 +0000"
     },
     "done": true
   },
@@ -2309,6 +2425,12 @@
     },
     "done": true
   },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "brewingstand": "2025-03-02 02:56:10 +0000"
+    },
+    "done": false
+  },
   "composite_material:recipes/composite_material/dungeon_axe": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
@@ -2333,9 +2455,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/disc_sword": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-03-02 02:52:54 +0000"
     },
     "done": true
   },
@@ -2348,6 +2482,12 @@
   "composite_material:recipes/composite_material/amethyst_hoe": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-03-02 02:55:45 +0000"
     },
     "done": true
   },
@@ -2375,9 +2515,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/socotra_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_warped_fence": {
     "criteria": {
       "has_stick": "2025-03-02 02:49:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-02 02:55:47 +0000"
     },
     "done": true
   },
@@ -2390,6 +2542,12 @@
   "composite_material:recipes/composite_material/obsidian_shovel": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-02 02:55:47 +0000"
     },
     "done": true
   },
@@ -2423,6 +2581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
     "criteria": {
       "has_planks": "2025-03-02 02:49:53 +0000"
@@ -2441,9 +2605,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/emerald": {
+    "criteria": {
+      "has_emerald": "2025-03-02 02:55:45 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/green_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-03-02 02:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-02 03:01:28 +0000"
     },
     "done": true
   },
@@ -2459,9 +2641,27 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/misc/spawner_frame": {
+    "criteria": {
+      "has_spawner_fragment": "2025-03-02 02:57:34 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/obsidian_sword": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-02 02:56:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
     },
     "done": true
   },
@@ -2498,6 +2698,12 @@
   "composite_material:recipes/composite_material/echoium_sword": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
     },
     "done": true
   },
@@ -2543,9 +2749,21 @@
     },
     "done": true
   },
+  "undergarden:recipes/transportation/smogstem_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-03-02 02:51:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
     },
     "done": true
   },
@@ -2615,9 +2833,54 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-03-02 02:59:59 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/amethyst_helmet": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2025-03-02 02:56:18 +0000",
+      "cooked_beef": "2025-03-02 02:53:12 +0000",
+      "apple": "2025-03-02 03:01:29 +0000",
+      "bread": "2025-03-02 02:55:34 +0000"
+    },
+    "done": false
+  },
+  "iammusicplayer:recipes/misc/radio_antenna": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-02 02:58:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cooked_beef": {
+    "criteria": {
+      "has_cooked_beef": "2025-03-02 02:53:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
     },
     "done": true
   },
@@ -2681,6 +2944,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/hunting_post": {
+    "criteria": {
+      "has_arrow": "2025-03-02 02:55:16 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/spruce_shrub": {
     "criteria": {
       "has_spruce_sapling": "2025-03-02 02:49:49 +0000"
@@ -2696,6 +2965,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-03-02 02:50:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-03-02 03:01:28 +0000"
     },
     "done": true
   },
@@ -2747,6 +3022,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-03-02 02:59:59 +0000"
+    },
+    "done": false
+  },
   "composite_material:recipes/composite_material/obsidian_pickaxe": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
@@ -2777,6 +3058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-03-02 02:49:53 +0000"
@@ -2786,6 +3073,12 @@
   "composite_material:recipes/composite_material/obsidian_hoe_2": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-02 02:55:47 +0000"
     },
     "done": true
   },
@@ -2813,9 +3106,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/kapok_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/amethyst_boots": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-03-02 02:58:50 +0000"
     },
     "done": true
   },
@@ -2879,6 +3190,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/larch_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/abyss_blade": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
@@ -2894,6 +3211,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-03-02 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-02 03:01:28 +0000"
     },
     "done": true
   },
@@ -3029,6 +3352,12 @@
     },
     "done": true
   },
+  "iammusicplayer:recipes/misc/manual": {
+    "criteria": {
+      "has_book": "2025-03-02 02:55:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-03-02 02:52:41 +0000"
@@ -3041,9 +3370,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/blackwood_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-03-02 02:49:53 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "brewingstand": "2025-03-02 02:56:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
     },
     "done": true
   },
@@ -3059,9 +3412,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-03-02 02:57:06 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/purifichanted_book": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
     },
     "done": true
   },
@@ -3089,6 +3454,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2025-03-02 02:55:16 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-03-02 02:49:48 +0000"
@@ -3104,6 +3475,12 @@
   "composite_material:recipes/composite_material/obsidian_helmet": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-02 02:55:47 +0000"
     },
     "done": true
   },
@@ -3143,6 +3520,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-02 03:01:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/etherite_totem": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
@@ -3161,6 +3550,24 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-02 03:01:28 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/parabolic_antenna": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-02 02:58:50 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
     "criteria": {
       "has_planks": "2025-03-02 02:49:53 +0000"
@@ -3173,9 +3580,39 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-03-02 02:55:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/dungeon_pickaxe": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-03-02 02:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
     },
     "done": true
   },
@@ -3194,6 +3631,12 @@
   "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2025-03-02 02:49:48 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/wigglewood_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
     },
     "done": true
   },
@@ -3239,9 +3682,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-02 03:01:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-03-02 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/brazier": {
+    "criteria": {
+      "has_iron_bars": "2025-03-02 02:57:06 +0000"
     },
     "done": true
   },
@@ -3266,6 +3721,24 @@
   "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
     "criteria": {
       "has_stick": "2025-03-02 02:49:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/mauve_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-03-02 02:55:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
     },
     "done": true
   },
@@ -3305,6 +3778,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/allay_steel_hoe_2": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
@@ -3338,6 +3817,12 @@
   "composite_material:recipes/composite_material/allay_steel_helmet": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-03-02 03:01:28 +0000"
     },
     "done": true
   },
@@ -3395,9 +3880,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_chainmail_leggings": "2025-03-02 02:58:32 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/creative_reinforced_book": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-03-02 03:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-03-02 03:01:28 +0000"
     },
     "done": true
   },
@@ -3407,9 +3910,21 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/craft/wind_capture_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-03-02 03:02:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-03-02 02:49:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-03-02 02:57:40 +0000"
     },
     "done": true
   },
@@ -3422,6 +3937,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-03-02 02:50:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-03-02 02:57:19 +0000"
     },
     "done": true
   },

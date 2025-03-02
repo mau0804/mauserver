@@ -21335,3 +21335,93 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Mar2025 02:54:55.306] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_14
 [02Mar2025 02:54:59.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> a no
 [02Mar2025 02:55:01.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> una casa
+[02Mar2025 02:55:16.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS has made the advancement [World of illusion]
+[02Mar2025 02:55:26.990] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[02Mar2025 02:55:29.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> cohino
+[02Mar2025 02:55:35.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Local Brewery]
+[02Mar2025 02:55:49.787] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_03 is being run through DFU (hash 9c672064577c8faaa52d9dcc7b4a0dc2c4c4b3b63c415c1bf325003143735632), this will cause launch time delays
+[02Mar2025 02:55:50.385] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=808, y=-59, z=866}
+[02Mar2025 02:55:50.385] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=809, y=-59, z=867}
+[02Mar2025 02:55:50.385] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=807, y=-59, z=867}
+[02Mar2025 02:55:50.415] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
+[02Mar2025 02:55:56.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> andaban eran pobres
+[02Mar2025 02:56:09.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> torre
+[02Mar2025 02:56:10.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS has made the advancement [Let's Get To Work]
+[02Mar2025 02:56:21.772] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool2
+[02Mar2025 02:56:22.535] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of supernatural:graveyard_06
+[02Mar2025 02:56:22.576] [Worker-Main-2/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_06 is being run through DFU (hash f1d53644703d518b5268e140eebe3bef6d450610d126983900dce702abf35b53), this will cause launch time delays
+[02Mar2025 02:56:22.669] [Worker-Main-3/DEBUG] [ModernFix/]: Structure valhelsia_structures:furnished/player_house/house_1 is being run through DFU (hash 2199f880f6cfe4a8d8f9f50026ef10de07876b94632f7263f57bed501b44da25), this will cause launch time delays
+[02Mar2025 02:56:30.432] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/table1 is being run through DFU (hash e7203f59f788fe4bc8024f12ea14745262a1f009e0885ac9a02058f0566cbe3f), this will cause launch time delays
+[02Mar2025 02:56:30.955] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of supernatural:graveyard_04
+[02Mar2025 02:56:31.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> una dungeon
+[02Mar2025 02:56:38.275] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_19 is being run through DFU (hash 1894407e8c4bcdd839c99bab5dc51283c5e5083d1e58eb277b6697500cc3136b), this will cause launch time delays
+[02Mar2025 02:56:38.280] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_19b is being run through DFU (hash d2635e0cda896f59b2f015663e11173f6367a06165e0cf5c3766589be6efc4f0), this will cause launch time delays
+[02Mar2025 02:56:38.341] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/villagers/villager
+[02Mar2025 02:57:12.327] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[02Mar2025 02:57:12.328] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[02Mar2025 02:57:12.329] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[02Mar2025 02:57:12.329] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[02Mar2025 02:57:27.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> era un tontito
+[02Mar2025 02:57:42.006] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/CompoundContainer (target of net/minecraft/world/Container)
+[02Mar2025 02:57:42.386] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[02Mar2025 02:57:42.386] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Mar2025 02:57:42.387] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Mar2025 02:57:42.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 02:57:42.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 02:57:42.517] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[02Mar2025 02:57:42.738] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/pyramid1 is being run through DFU (hash f36c028d7d7849c817a64a1af95b9f26b9468a436bc78ef37ffe6662798a065d), this will cause launch time delays
+[02Mar2025 02:57:43.065] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_14 is being run through DFU (hash 58a4daf5012dfddd6e5e85ab6d10ab88c034ee55661502a4e92bda8c67a48a49), this will cause launch time delays
+[02Mar2025 02:57:43.232] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_08
+[02Mar2025 02:57:43.291] [Worker-Main-3/DEBUG] [ModernFix/]: Structure ars_nouveau:wilden_den_top_defender is being run through DFU (hash 62ccdcac698f875a727174c258ebb661c6f3ccd9b1301050b979fdf9bb9fb611), this will cause launch time delays
+[02Mar2025 02:57:43.378] [Worker-Main-3/DEBUG] [ModernFix/]: Structure ars_nouveau:wilden_den_top_hunter is being run through DFU (hash 4df74b3332b0b0a41737d16b61c2574da673b4cf25cf2db8459397ec3c03fe95), this will cause launch time delays
+[02Mar2025 02:57:43.433] [Worker-Main-3/DEBUG] [ModernFix/]: Structure ars_nouveau:wilden_den_bottom is being run through DFU (hash 823a6dcc2333e3a69551a6fba198732f91e0815f635e66a221bed097a9fc96b7), this will cause launch time delays
+[02Mar2025 02:57:43.875] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_09
+[02Mar2025 02:57:44.175] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/mound_castle_small is being run through DFU (hash 4b86819124ee899c249f451f1e6d1ae70abbfd8023b62693591b6b3226fc3556), this will cause launch time delays
+[02Mar2025 02:57:44.179] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin2
+[02Mar2025 02:57:44.544] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:outcast_villager/medium2 is being run through DFU (hash 51c5ea36493fed3a51682b9d0aab0c9dbea766cf54f796386d2b10b761568251), this will cause launch time delays
+[02Mar2025 02:57:45.502] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_06
+[02Mar2025 02:57:45.771] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of supernatural:graveyard_03
+[02Mar2025 02:57:45.844] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_03
+[02Mar2025 02:57:45.926] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/town_centers/savanna_meeting_point_1 is being run through DFU (hash f05b8780ec7da90d6d6d1413304702e41494fff0fa47027e16295cec86a18604), this will cause launch time delays
+[02Mar2025 02:57:46.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3989ms or 79 ticks behind
+[02Mar2025 02:57:47.166] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pond1
+[02Mar2025 02:57:47.201] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_07
+[02Mar2025 02:57:48.828] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/graveyard_large
+[02Mar2025 02:57:48.930] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_12 is being run through DFU (hash 352ddcf800ad0c963554150f024d28ec3c93539b8b738530f23ee3b5cbbaa339), this will cause launch time delays
+[02Mar2025 02:57:50.192] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$e918b8d01a9b458fa378f28dc343d50f (originally me/jellysquid/mods/lithium/mixin/ai/poi/SerializingRegionBasedStorageMixin$1)
+[02Mar2025 02:58:11.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> solo 1 slot
+[02Mar2025 02:58:21.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> hay que hacernos mochilas
+[02Mar2025 02:58:25.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> esas si son potentes
+[02Mar2025 02:58:40.058] [Worker-Main-3/DEBUG] [ModernFix/]: Structure valhelsia_structures:ruins/tower_ruin_1 is being run through DFU (hash 6ee78d7e818dd1c509b4bf4d45f0acc34e651883c61814786ad3bdcf310e0c8c), this will cause launch time delays
+[02Mar2025 02:58:40.106] [IO-Worker-28/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/nbt/StreamTagVisitor$ValueResult
+[02Mar2025 02:58:40.107] [IO-Worker-28/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/nbt/StreamTagVisitor$EntryResult
+[02Mar2025 02:58:51.213] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[02Mar2025 02:59:23.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> ñelda
+[02Mar2025 02:59:42.972] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[02Mar2025 02:59:49.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Vampire Slayer]
+[02Mar2025 02:59:59.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS has made the advancement [Monster Hunter]
+[02Mar2025 03:00:05.828] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[02Mar2025 03:00:09.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Acquire Hardware]
+[02Mar2025 03:00:12.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Amateur Archaeologist]
+[02Mar2025 03:00:18.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS has made the advancement [Take Aim]
+[02Mar2025 03:00:21.828] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[02Mar2025 03:00:23.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> q
+[02Mar2025 03:00:25.246] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[02Mar2025 03:00:38.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> ñellllda
+[02Mar2025 03:01:16.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shuwii: Teleported MRCHSSS to Shuwii]
+[02Mar2025 03:01:33.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> dame manzanas
+[02Mar2025 03:01:49.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> mira mi chapatines
+[02Mar2025 03:02:46.340] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[02Mar2025 03:02:46.340] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Mar2025 03:02:46.340] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Mar2025 03:02:46.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 03:02:46.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 03:02:46.461] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[02Mar2025 03:02:50.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> deja ese dragon raro
+[02Mar2025 03:03:09.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> mldta puta
+[02Mar2025 03:03:17.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii was slain by Dragon
+[02Mar2025 03:03:21.470] [Server thread/DEBUG] [twilightforest/]: Player Shuwii (83450bc3-ad45-3f8a-8655-2a4288105162) respawned and received items held in storage
+[02Mar2025 03:03:21.504] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['Shuwii'/1678, l='ServerLevel[world]', x=-4.50, y=74.00, z=-2.50]
+[02Mar2025 03:03:48.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS was slain by Dragon
+[02Mar2025 03:03:49.482] [Server thread/DEBUG] [twilightforest/]: Player MRCHSSS (cff50560-197d-3f51-8381-eb76a19f92a9) respawned and received items held in storage
+[02Mar2025 03:03:49.506] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['MRCHSSS'/4022, l='ServerLevel[world]', x=0.50, y=75.00, z=6.50]
