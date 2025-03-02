@@ -3685,6 +3685,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-03-02 04:01:58 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/pink_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-03-02 02:53:53 +0000"
@@ -4273,6 +4279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-03-02 03:56:55 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-03-02 02:57:17 +0000"
@@ -4360,6 +4372,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-03-02 02:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-02 04:01:10 +0000"
     },
     "done": true
   },
@@ -4603,6 +4621,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-02 04:01:58 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/green_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-03-02 03:00:09 +0000"
@@ -4630,6 +4654,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-03-02 02:51:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-03-02 04:01:10 +0000"
     },
     "done": true
   },
@@ -4672,6 +4702,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-02 02:53:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-03-02 03:57:20 +0000"
     },
     "done": true
   },
@@ -4723,6 +4759,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-03-02 03:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-02 03:37:10 +0000"
@@ -4753,11 +4795,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-03-02 03:58:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-03-02 02:53:47 +0000",
+      "pumpkin_pie": "2025-03-02 04:01:19 +0000",
       "bread": "2025-03-02 02:55:47 +0000",
-      "golden_apple": "2025-03-02 03:31:26 +0000"
+      "golden_apple": "2025-03-02 03:31:26 +0000",
+      "cookie": "2025-03-02 03:58:40 +0000",
+      "rotten_flesh": "2025-03-02 03:56:49 +0000",
+      "mushroom_stew": "2025-03-02 04:01:58 +0000"
     },
     "done": false
   },
@@ -4875,6 +4927,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/building_blocks/bone_pile": {
+    "criteria": {
+      "has_bone": "2025-03-02 04:01:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-03-02 02:58:33 +0000"
@@ -4926,6 +4984,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-03-02 03:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-02 03:55:25 +0000"
     },
     "done": true
   },
@@ -5460,6 +5524,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-03-02 03:53:26 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/hay_mangrove_chair": {
     "criteria": {
       "has_hay_block": "2025-03-02 02:55:04 +0000"
@@ -5523,6 +5593,12 @@
   "twilightforest:recipes/transportation/twilight_oak_boat": {
     "criteria": {
       "in_water": "2025-03-02 02:57:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-02 04:01:58 +0000"
     },
     "done": true
   },
@@ -5664,6 +5740,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2025-03-02 03:58:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-03-02 03:50:02 +0000"
@@ -5760,6 +5842,12 @@
     },
     "done": true
   },
+  "iammusicplayer:iammusicplayer/root": {
+    "criteria": {
+      "iammusicplayer": "2025-03-02 04:02:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-02 03:01:09 +0000"
@@ -5775,6 +5863,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-03-02 03:00:09 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/misc/bone_pile_block_from_bone": {
+    "criteria": {
+      "has_bone": "2025-03-02 04:01:10 +0000"
     },
     "done": true
   },
@@ -6126,6 +6220,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-03-02 04:01:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-03-02 03:30:53 +0000"
@@ -6174,6 +6274,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-03-02 02:55:04 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/wind_capture_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-03-02 03:52:48 +0000"
     },
     "done": true
   },
@@ -6252,6 +6358,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-03-02 03:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-02 03:55:25 +0000"
     },
     "done": true
   },

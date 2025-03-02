@@ -2154,6 +2154,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-03-02 04:01:41 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/amethyst_shovel": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
@@ -2778,6 +2784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-03-02 04:02:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-03-02 02:57:19 +0000"
@@ -3384,6 +3396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-03-02 04:02:42 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/cyan_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-03-02 02:49:53 +0000"
@@ -3666,6 +3684,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-03-02 03:56:15 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/copper_sword": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
@@ -3738,12 +3762,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-03-02 03:58:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-03-02 02:56:18 +0000",
       "cooked_beef": "2025-03-02 02:53:12 +0000",
       "apple": "2025-03-02 03:01:29 +0000",
-      "bread": "2025-03-02 02:55:34 +0000"
+      "pumpkin_pie": "2025-03-02 03:58:41 +0000",
+      "bread": "2025-03-02 02:55:34 +0000",
+      "cookie": "2025-03-02 03:58:36 +0000",
+      "rotten_flesh": "2025-03-02 03:56:51 +0000"
     },
     "done": false
   },
@@ -3840,6 +3873,12 @@
   "composite_material:recipes/composite_material/disenchanted_book": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-03-02 03:53:47 +0000"
     },
     "done": true
   },
@@ -4229,6 +4268,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-03-02 02:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-03-02 04:02:42 +0000"
     },
     "done": true
   },
@@ -4931,6 +4976,12 @@
   "composite_material:recipes/composite_material/obsidian_helmet": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2025-03-02 03:58:24 +0000"
     },
     "done": true
   },
