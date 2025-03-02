@@ -2774,3 +2774,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Mar2025 01:44:31.550] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Shuwii
 [02Mar2025 01:44:31.572] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Shuwii (18)
 [02Mar2025 01:44:31.573] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Shuwii
+[02Mar2025 01:46:40.172] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Mar2025 01:46:40.173] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Mar2025 01:46:42.499] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[02Mar2025 01:46:42.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> lag
+[02Mar2025 01:47:10.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> a
+[02Mar2025 01:51:07.504] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[02Mar2025 01:51:38.822] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/entity/animation/Transformation$Type
+[02Mar2025 01:51:40.170] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Mar2025 01:51:40.170] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Mar2025 01:52:23.061] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[02Mar2025 01:52:23.062] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[02Mar2025 01:53:39.185] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[02Mar2025 01:53:39.242] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-461, y=-59, z=246}
+[02Mar2025 01:54:18.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Monster Hunter]

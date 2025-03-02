@@ -15298,3 +15298,302 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Mar2025 01:44:31.572] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Shuwii
 [02Mar2025 01:44:31.572] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Shuwii
 [02Mar2025 01:44:31.573] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Shuwii
+[02Mar2025 01:45:43.827] [Server thread/DEBUG] [twilightforest/]: Player Shuwii (83450bc3-ad45-3f8a-8655-2a4288105162) respawned and received items held in storage
+[02Mar2025 01:45:43.846] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['Shuwii'/3873, l='ServerLevel[world]', x=10.50, y=110.00, z=-0.50]
+[02Mar2025 01:46:40.172] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[02Mar2025 01:46:40.172] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Mar2025 01:46:40.173] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Mar2025 01:46:40.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 01:46:40.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 01:46:40.308] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[02Mar2025 01:46:42.499] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[02Mar2025 01:46:42.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> lag
+[02Mar2025 01:47:10.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> a
+[02Mar2025 01:47:30.679] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[02Mar2025 01:48:14.857] [Worker-Main-2/DEBUG] [ModernFix/]: Structure born_in_chaos_v1:lookout_tower is being run through DFU (hash 69bd5f46eaa56de8fcad01102a19c9907f355ff2926fe467684f07d855c1da43), this will cause launch time delays
+[02Mar2025 01:51:07.504] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[02Mar2025 01:51:26.594] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=90, y=7, z=225}
+[02Mar2025 01:51:26.626] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=91, y=7, z=225}
+[02Mar2025 01:51:26.626] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=90, y=-7, z=236}
+[02Mar2025 01:51:26.627] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=99, y=7, z=224}
+[02Mar2025 01:51:26.627] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=90, y=7, z=225}
+[02Mar2025 01:51:26.681] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=91, y=7, z=225}
+[02Mar2025 01:51:26.681] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=100, y=7, z=226}
+[02Mar2025 01:51:26.682] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=99, y=7, z=224}
+[02Mar2025 01:51:26.933] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=139, y=-13, z=254}
+[02Mar2025 01:51:26.934] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=135, y=-13, z=254}
+[02Mar2025 01:51:26.934] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=136, y=-13, z=237}
+[02Mar2025 01:51:26.934] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=128, y=-13, z=236}
+[02Mar2025 01:51:26.934] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=130, y=-13, z=247}
+[02Mar2025 01:51:26.956] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=47, y=-6, z=312}
+[02Mar2025 01:51:26.957] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=59, y=-6, z=318}
+[02Mar2025 01:51:27.278] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/ruin2 is being run through DFU (hash 3e17a0e166a52072f2162ea9451b7a9a350f7e1097a27f8e26f090bb8643d5ea), this will cause launch time delays
+[02Mar2025 01:51:27.347] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=59, y=-6, z=318}
+[02Mar2025 01:51:38.822] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/entity/animation/Transformation$Type
+[02Mar2025 01:51:40.170] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[02Mar2025 01:51:40.170] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Mar2025 01:51:40.170] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Mar2025 01:51:40.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 01:51:40.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 01:51:40.308] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[02Mar2025 01:51:47.519] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=90, y=7, z=253}
+[02Mar2025 01:51:47.546] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=97, y=-6, z=262}
+[02Mar2025 01:51:47.546] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=91, y=7, z=240}
+[02Mar2025 01:51:47.546] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=90, y=7, z=253}
+[02Mar2025 01:51:47.640] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=126, y=-6, z=248}
+[02Mar2025 01:51:47.641] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=154, y=-13, z=255}
+[02Mar2025 01:51:47.641] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=139, y=-13, z=254}
+[02Mar2025 01:51:47.642] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=135, y=-13, z=254}
+[02Mar2025 01:51:47.642] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=136, y=-13, z=237}
+[02Mar2025 01:51:47.642] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=130, y=-13, z=247}
+[02Mar2025 01:51:47.646] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=121, y=-6, z=247}
+[02Mar2025 01:51:47.646] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=111, y=7, z=240}
+[02Mar2025 01:51:47.647] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=120, y=-6, z=257}
+[02Mar2025 01:51:47.647] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=126, y=-6, z=248}
+[02Mar2025 01:51:47.653] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=97, y=-6, z=262}
+[02Mar2025 01:51:47.654] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=106, y=7, z=245}
+[02Mar2025 01:51:47.654] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=91, y=7, z=240}
+[02Mar2025 01:51:47.655] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=105, y=7, z=255}
+[02Mar2025 01:51:47.655] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=111, y=7, z=240}
+[02Mar2025 01:51:47.655] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=100, y=7, z=242}
+[02Mar2025 01:51:50.816] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=98, y=-6, z=263}
+[02Mar2025 01:51:50.817] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=110, y=7, z=263}
+[02Mar2025 01:51:50.817] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=97, y=-6, z=262}
+[02Mar2025 01:51:50.817] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=106, y=7, z=245}
+[02Mar2025 01:51:50.818] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=111, y=7, z=240}
+[02Mar2025 01:51:50.822] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=98, y=-6, z=263}
+[02Mar2025 01:51:50.823] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=97, y=-6, z=262}
+[02Mar2025 01:51:50.829] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=119, y=-6, z=265}
+[02Mar2025 01:51:50.829] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=118, y=-6, z=277}
+[02Mar2025 01:51:50.830] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=121, y=-6, z=247}
+[02Mar2025 01:51:50.830] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=111, y=7, z=240}
+[02Mar2025 01:51:50.830] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=120, y=-6, z=257}
+[02Mar2025 01:51:50.831] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=126, y=-6, z=248}
+[02Mar2025 01:51:53.749] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=112, y=-6, z=304}
+[02Mar2025 01:51:53.788] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=112, y=-6, z=304}
+[02Mar2025 01:51:53.833] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=112, y=-6, z=304}
+[02Mar2025 01:51:53.837] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=98, y=-6, z=263}
+[02Mar2025 01:51:53.840] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=112, y=-6, z=304}
+[02Mar2025 01:51:53.844] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=98, y=-6, z=263}
+[02Mar2025 01:51:53.844] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=110, y=7, z=263}
+[02Mar2025 01:51:53.991] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=112, y=-6, z=304}
+[02Mar2025 01:51:53.994] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=133, y=-6, z=280}
+[02Mar2025 01:51:53.994] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=119, y=-6, z=265}
+[02Mar2025 01:51:53.995] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=118, y=-6, z=277}
+[02Mar2025 01:51:56.424] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:furnished/forge/forge_2
+[02Mar2025 01:51:58.310] [Worker-Main-3/DEBUG] [ModernFix/]: Structure valhelsia_structures:furnished/forge/forge_1 is being run through DFU (hash 8c40294adbfc199212196678f08d21e55b06f771a33a658b211892506bb33cab), this will cause launch time delays
+[02Mar2025 01:51:58.406] [Worker-Main-3/DEBUG] [ModernFix/]: Structure valhelsia_structures:mobs/villagers/villager is being run through DFU (hash 212caccde2ea0afe305e8b39b764079e6ff5bca4597046976b0fbf52790beee5), this will cause launch time delays
+[02Mar2025 01:51:58.695] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=112, y=-6, z=304}
+[02Mar2025 01:51:58.711] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=59, y=-6, z=318}
+[02Mar2025 01:51:58.727] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=112, y=-6, z=304}
+[02Mar2025 01:51:58.753] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=48, y=-6, z=317}
+[02Mar2025 01:51:58.754] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=47, y=-6, z=312}
+[02Mar2025 01:51:58.756] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=59, y=-6, z=318}
+[02Mar2025 01:51:59.743] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=112, y=-6, z=304}
+[02Mar2025 01:52:00.230] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=112, y=-6, z=304}
+[02Mar2025 01:52:00.387] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=112, y=-6, z=304}
+[02Mar2025 01:52:00.429] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=76, y=-6, z=318}
+[02Mar2025 01:52:00.438] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=112, y=-6, z=304}
+[02Mar2025 01:52:00.441] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=83, y=-6, z=313}
+[02Mar2025 01:52:00.442] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=76, y=-6, z=318}
+[02Mar2025 01:52:00.442] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=48, y=-6, z=317}
+[02Mar2025 01:52:00.442] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=65, y=-6, z=312}
+[02Mar2025 01:52:00.488] [Worker-Main-1/DEBUG] [ModernFix/]: Structure bosses_of_mass_destruction:lich_tower/bottom is being run through DFU (hash b5a5d1188127a6180019fab0bb4eec7da2f58f822cf7df839925e65dd4b77108), this will cause launch time delays
+[02Mar2025 01:52:01.290] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=112, y=-6, z=304}
+[02Mar2025 01:52:01.296] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=84, y=-6, z=305}
+[02Mar2025 01:52:01.297] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=83, y=-6, z=313}
+[02Mar2025 01:52:01.494] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=112, y=-6, z=304}
+[02Mar2025 01:52:01.497] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=84, y=-6, z=305}
+[02Mar2025 01:52:02.009] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=112, y=-6, z=304}
+[02Mar2025 01:52:02.012] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=133, y=-6, z=280}
+[02Mar2025 01:52:02.142] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=112, y=-6, z=304}
+[02Mar2025 01:52:02.370] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[02Mar2025 01:52:02.371] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to mdadf52c$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[02Mar2025 01:52:23.061] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[02Mar2025 01:52:23.062] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[02Mar2025 01:52:23.063] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[02Mar2025 01:52:23.063] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[02Mar2025 01:52:28.348] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=128, y=-6, z=266}
+[02Mar2025 01:52:28.348] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=137, y=-6, z=262}
+[02Mar2025 01:52:28.349] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=126, y=-6, z=248}
+[02Mar2025 01:52:28.349] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=142, y=-13, z=262}
+[02Mar2025 01:52:28.349] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=154, y=-13, z=255}
+[02Mar2025 01:52:28.427] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=133, y=-6, z=280}
+[02Mar2025 01:52:28.428] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=134, y=-6, z=294}
+[02Mar2025 01:52:28.428] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=145, y=-20, z=295}
+[02Mar2025 01:52:28.432] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=133, y=-6, z=280}
+[02Mar2025 01:52:28.433] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=134, y=-6, z=294}
+[02Mar2025 01:52:28.433] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=136, y=-6, z=285}
+[02Mar2025 01:52:28.433] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=128, y=-6, z=266}
+[02Mar2025 01:52:28.434] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=137, y=-6, z=262}
+[02Mar2025 01:52:28.434] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=142, y=-13, z=262}
+[02Mar2025 01:52:28.681] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=139, y=-13, z=254}
+[02Mar2025 01:52:28.844] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=154, y=-13, z=255}
+[02Mar2025 01:52:28.845] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=139, y=-13, z=254}
+[02Mar2025 01:52:28.850] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=142, y=-13, z=262}
+[02Mar2025 01:52:28.851] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=154, y=-13, z=255}
+[02Mar2025 01:52:28.869] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=134, y=-6, z=294}
+[02Mar2025 01:52:28.870] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=149, y=-6, z=299}
+[02Mar2025 01:52:28.870] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=136, y=-6, z=285}
+[02Mar2025 01:52:28.870] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=142, y=-13, z=262}
+[02Mar2025 01:52:28.875] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=134, y=-6, z=294}
+[02Mar2025 01:52:28.875] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=145, y=-20, z=295}
+[02Mar2025 01:52:28.876] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=149, y=-6, z=299}
+[02Mar2025 01:52:28.877] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=159, y=1, z=300}
+[02Mar2025 01:52:28.880] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=159, y=1, z=300}
+[02Mar2025 01:52:28.880] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=153, y=1, z=312}
+[02Mar2025 01:52:28.880] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=173, y=1, z=313}
+[02Mar2025 01:52:28.895] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=173, y=1, z=313}
+[02Mar2025 01:52:29.351] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=149, y=-6, z=299}
+[02Mar2025 01:52:29.437] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=149, y=-6, z=299}
+[02Mar2025 01:52:29.459] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=173, y=1, z=313}
+[02Mar2025 01:52:29.467] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=153, y=1, z=312}
+[02Mar2025 01:52:29.468] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=173, y=1, z=313}
+[02Mar2025 01:52:29.882] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (189 | 52 | 206)
+[02Mar2025 01:52:29.883] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (189 | 52 | 206)
+[02Mar2025 01:52:29.883] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (184 | 52 | 206)
+[02Mar2025 01:52:29.883] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (184 | 52 | 206)
+[02Mar2025 01:52:29.883] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (185 | 52 | 201)
+[02Mar2025 01:52:29.883] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (185 | 52 | 201)
+[02Mar2025 01:52:29.883] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (183 | 52 | 210)
+[02Mar2025 01:52:29.884] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (183 | 52 | 210)
+[02Mar2025 01:52:29.884] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (183 | 43 | 201)
+[02Mar2025 01:52:29.884] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (183 | 43 | 201)
+[02Mar2025 01:52:30.332] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=153, y=1, z=312}
+[02Mar2025 01:52:34.184] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_180 at (193 | 43 | 207)
+[02Mar2025 01:52:34.184] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_180 at (193 | 43 | 207)
+[02Mar2025 01:52:34.184] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_180 at (197 | 43 | 207)
+[02Mar2025 01:52:34.191] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_180 at (197 | 43 | 207)
+[02Mar2025 01:52:34.191] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (201 | 43 | 201)
+[02Mar2025 01:52:34.191] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (201 | 43 | 201)
+[02Mar2025 01:52:39.265] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (201 | 43 | 201)
+[02Mar2025 01:52:39.266] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (201 | 43 | 201)
+[02Mar2025 01:52:39.266] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (221 | 43 | 212)
+[02Mar2025 01:52:39.266] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (221 | 43 | 212)
+[02Mar2025 01:52:39.266] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (220 | 43 | 214)
+[02Mar2025 01:52:39.266] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (220 | 43 | 214)
+[02Mar2025 01:52:39.266] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (217 | 43 | 199)
+[02Mar2025 01:52:39.266] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (217 | 43 | 199)
+[02Mar2025 01:52:39.266] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (220 | 43 | 220)
+[02Mar2025 01:52:39.273] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (220 | 43 | 220)
+[02Mar2025 01:52:39.273] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (221 | 43 | 219)
+[02Mar2025 01:52:39.273] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (221 | 43 | 219)
+[02Mar2025 01:52:39.284] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (220 | 43 | 224)
+[02Mar2025 01:52:39.284] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (220 | 43 | 224)
+[02Mar2025 01:52:39.284] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (221 | 43 | 219)
+[02Mar2025 01:52:39.284] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (221 | 43 | 219)
+[02Mar2025 01:52:39.284] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (219 | 43 | 228)
+[02Mar2025 01:52:39.285] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (219 | 43 | 228)
+[02Mar2025 01:53:38.999] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (219 | 52 | 174)
+[02Mar2025 01:53:38.999] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (219 | 52 | 174)
+[02Mar2025 01:53:38.999] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (221 | 43 | 161)
+[02Mar2025 01:53:39.000] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (221 | 43 | 161)
+[02Mar2025 01:53:39.000] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (221 | 43 | 156)
+[02Mar2025 01:53:39.000] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (221 | 43 | 156)
+[02Mar2025 01:53:39.000] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (217 | 43 | 163)
+[02Mar2025 01:53:39.000] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (217 | 43 | 163)
+[02Mar2025 01:53:39.000] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (220 | 16 | 160)
+[02Mar2025 01:53:39.000] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (220 | 16 | 160)
+[02Mar2025 01:53:39.000] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (221 | 16 | 170)
+[02Mar2025 01:53:39.000] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (221 | 16 | 170)
+[02Mar2025 01:53:39.000] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (220 | 16 | 165)
+[02Mar2025 01:53:39.000] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (220 | 16 | 165)
+[02Mar2025 01:53:39.000] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (216 | 16 | 171)
+[02Mar2025 01:53:39.001] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (216 | 16 | 171)
+[02Mar2025 01:53:39.008] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (221 | 43 | 149)
+[02Mar2025 01:53:39.008] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (221 | 43 | 149)
+[02Mar2025 01:53:39.008] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (220 | 43 | 151)
+[02Mar2025 01:53:39.008] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (220 | 43 | 151)
+[02Mar2025 01:53:39.008] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (217 | 43 | 136)
+[02Mar2025 01:53:39.008] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (217 | 43 | 136)
+[02Mar2025 01:53:39.008] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (221 | 43 | 156)
+[02Mar2025 01:53:39.008] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (221 | 43 | 156)
+[02Mar2025 01:53:39.008] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (225 | 34 | 144)
+[02Mar2025 01:53:39.017] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (225 | 34 | 144)
+[02Mar2025 01:53:39.017] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (221 | 30 | 140)
+[02Mar2025 01:53:39.017] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (221 | 30 | 140)
+[02Mar2025 01:53:39.017] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (221 | 30 | 140)
+[02Mar2025 01:53:39.017] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (221 | 30 | 140)
+[02Mar2025 01:53:39.017] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (227 | 25 | 139)
+[02Mar2025 01:53:39.017] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (227 | 25 | 139)
+[02Mar2025 01:53:39.017] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (227 | 25 | 139)
+[02Mar2025 01:53:39.018] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (227 | 25 | 139)
+[02Mar2025 01:53:39.018] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (220 | 25 | 146)
+[02Mar2025 01:53:39.018] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (220 | 25 | 146)
+[02Mar2025 01:53:39.018] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (220 | 25 | 146)
+[02Mar2025 01:53:39.018] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (220 | 25 | 146)
+[02Mar2025 01:53:39.018] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (215 | 25 | 134)
+[02Mar2025 01:53:39.018] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (215 | 25 | 134)
+[02Mar2025 01:53:39.018] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (215 | 25 | 134)
+[02Mar2025 01:53:39.019] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (215 | 25 | 134)
+[02Mar2025 01:53:39.019] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (221 | 16 | 159)
+[02Mar2025 01:53:39.019] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (221 | 16 | 159)
+[02Mar2025 01:53:39.019] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (216 | 16 | 144)
+[02Mar2025 01:53:39.020] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (216 | 16 | 144)
+[02Mar2025 01:53:39.092] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (219 | 52 | 174)
+[02Mar2025 01:53:39.093] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (219 | 52 | 174)
+[02Mar2025 01:53:39.093] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (221 | 43 | 176)
+[02Mar2025 01:53:39.093] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (221 | 43 | 176)
+[02Mar2025 01:53:39.093] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (220 | 43 | 178)
+[02Mar2025 01:53:39.093] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (220 | 43 | 178)
+[02Mar2025 01:53:39.093] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (225 | 43 | 184)
+[02Mar2025 01:53:39.093] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (225 | 43 | 184)
+[02Mar2025 01:53:39.093] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (225 | 43 | 188)
+[02Mar2025 01:53:39.094] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (225 | 43 | 188)
+[02Mar2025 01:53:39.094] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (221 | 43 | 183)
+[02Mar2025 01:53:39.094] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (221 | 43 | 183)
+[02Mar2025 01:53:39.094] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (221 | 16 | 186)
+[02Mar2025 01:53:39.094] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (221 | 16 | 186)
+[02Mar2025 01:53:39.094] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (220 | 16 | 187)
+[02Mar2025 01:53:39.094] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (220 | 16 | 187)
+[02Mar2025 01:53:39.094] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (216 | 16 | 171)
+[02Mar2025 01:53:39.095] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (216 | 16 | 171)
+[02Mar2025 01:53:39.099] [Worker-Main-3/DEBUG] [mixin/]: Mixing VillagerGoalPackagesMixin from guardvillagers.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[02Mar2025 01:53:39.101] [Worker-Main-3/DEBUG] [mixin/]: Mixing VillagerTaskListProviderMixin from friendsandfoes-common.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[02Mar2025 01:53:39.166] [Worker-Main-3/DEBUG] [mixin/]: Mixing compat116plus.VillagerBreedTaskMixin from pehkui.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerMakeLove
+[02Mar2025 01:53:39.173] [Worker-Main-3/DEBUG] [mixin/]: Mixing ai.poi.tasks.HideInHomeTaskMixin from lithium.mixins.json into net.minecraft.world.entity.ai.behavior.LocateHidingPlace
+[02Mar2025 01:53:39.173] [Worker-Main-3/DEBUG] [mixin/]: lithium.mixins.json:ai.poi.tasks.HideInHomeTaskMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[02Mar2025 01:53:39.185] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[02Mar2025 01:53:39.238] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (221 | 43 | 197)
+[02Mar2025 01:53:39.238] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (221 | 43 | 197)
+[02Mar2025 01:53:39.238] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (220 | 43 | 192)
+[02Mar2025 01:53:39.238] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (220 | 43 | 192)
+[02Mar2025 01:53:39.238] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (217 | 43 | 199)
+[02Mar2025 01:53:39.238] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (217 | 43 | 199)
+[02Mar2025 01:53:39.238] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/room/empty_room with rotation NONE at (219 | 16 | 192)
+[02Mar2025 01:53:39.239] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/room/empty_room with rotation NONE at (219 | 16 | 192)
+[02Mar2025 01:53:39.242] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-461, y=-59, z=246}
+[02Mar2025 01:53:39.251] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (221 | 43 | 212)
+[02Mar2025 01:53:39.251] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (221 | 43 | 212)
+[02Mar2025 01:53:39.251] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (220 | 43 | 214)
+[02Mar2025 01:53:39.251] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (220 | 43 | 214)
+[02Mar2025 01:53:39.251] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (217 | 43 | 199)
+[02Mar2025 01:53:39.251] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (217 | 43 | 199)
+[02Mar2025 01:53:39.252] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_90 at (225 | 43 | 220)
+[02Mar2025 01:53:39.252] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_90 at (225 | 43 | 220)
+[02Mar2025 01:53:39.252] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (221 | 43 | 219)
+[02Mar2025 01:53:39.252] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (221 | 43 | 219)
+[02Mar2025 01:53:39.588] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (225 | 43 | 224)
+[02Mar2025 01:53:39.588] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (225 | 43 | 224)
+[02Mar2025 01:53:39.588] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (221 | 43 | 219)
+[02Mar2025 01:53:39.588] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (221 | 43 | 219)
+[02Mar2025 01:53:39.588] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (219 | 43 | 228)
+[02Mar2025 01:53:39.588] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (219 | 43 | 228)
+[02Mar2025 01:53:40.804] [Worker-Main-1/DEBUG] [ModernFix/]: Structure gnumus:gnumus_ruins is being run through DFU (hash 1f4ef80c92cc65559b4cd414c8715c04fe43e5e82a37aa605b3c10fb76192c34), this will cause launch time delays
+[02Mar2025 01:53:48.733] [Worker-Main-1/DEBUG] [ModernFix/]: Structure valhelsia_structures:spawner_dungeon/cave_entrance/large is being run through DFU (hash c0e7f141bc4c8c8bcf518dbf19f08b42ec481851a59c91d3faabbf0f10dbaf11), this will cause launch time delays
+[02Mar2025 01:53:48.890] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/circle_tall
+[02Mar2025 01:53:49.339] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_15
+[02Mar2025 01:54:18.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Monster Hunter]
+[02Mar2025 01:54:18.864] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@4348764d for service interface com.blamejared.clumps.platform.IEventHelper
+[02Mar2025 01:54:18.864] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@34a2d83d for service interface com.blamejared.clumps.platform.IPlatformHelper
+[02Mar2025 01:54:42.609] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Shuwii'/3873, l='ServerLevel[world]', x=-75.41, y=23.00, z=195.70], dimensionLocationPath overworld
+[02Mar2025 01:54:45.211] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Shuwii'/3873, l='ServerLevel[world]', x=-75.30, y=23.00, z=195.41]
+[02Mar2025 01:55:00.009] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Shuwii'/3873, l='ServerLevel[world]', x=-75.30, y=23.00, z=196.53], dimensionLocationPath overworld
+[02Mar2025 01:55:00.009] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Shuwii'/3873, l='ServerLevel[world]', x=-75.30, y=23.00, z=196.53] in list []
+[02Mar2025 01:55:01.000] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/5770, l='ServerLevel[world]', x=-76.63, y=23.34, z=197.72], dimensionLocationPath overworld
+[02Mar2025 01:55:01.001] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/5770, l='ServerLevel[world]', x=-76.63, y=23.34, z=197.72] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@f21]
+[02Mar2025 01:55:01.350] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/5771, l='ServerLevel[world]', x=-75.64, y=23.20, z=197.35], dimensionLocationPath overworld
+[02Mar2025 01:55:01.351] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/5771, l='ServerLevel[world]', x=-75.64, y=23.20, z=197.35] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@f21, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@168a]
+[02Mar2025 01:55:01.850] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/5771, l='ServerLevel[world]', x=-75.65, y=23.00, z=196.85, removed=DISCARDED]
+[02Mar2025 01:55:02.211] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Shuwii'/3873, l='ServerLevel[world]', x=-75.39, y=23.00, z=197.66]
+[02Mar2025 01:55:02.301] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/5770, l='ServerLevel[world]', x=-76.88, y=23.00, z=196.94, removed=DISCARDED]
