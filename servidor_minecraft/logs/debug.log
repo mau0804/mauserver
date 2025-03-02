@@ -21425,3 +21425,63 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Mar2025 03:03:48.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS was slain by Dragon
 [02Mar2025 03:03:49.482] [Server thread/DEBUG] [twilightforest/]: Player MRCHSSS (cff50560-197d-3f51-8381-eb76a19f92a9) respawned and received items held in storage
 [02Mar2025 03:03:49.506] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['MRCHSSS'/4022, l='ServerLevel[world]', x=0.50, y=75.00, z=6.50]
+[02Mar2025 03:06:49.127] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[02Mar2025 03:07:01.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> comidaaa
+[02Mar2025 03:07:02.782] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['MRCHSSS'/4022, l='ServerLevel[world]', x=83.07, y=41.00, z=-290.09], dimensionLocationPath overworld
+[02Mar2025 03:07:08.225] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['MRCHSSS'/4022, l='ServerLevel[world]', x=85.56, y=41.00, z=-292.60]
+[02Mar2025 03:07:11.525] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['MRCHSSS'/4022, l='ServerLevel[world]', x=84.84, y=41.00, z=-292.55], dimensionLocationPath overworld
+[02Mar2025 03:07:11.526] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['MRCHSSS'/4022, l='ServerLevel[world]', x=84.84, y=41.00, z=-292.55] in list []
+[02Mar2025 03:07:14.523] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['MRCHSSS'/4022, l='ServerLevel[world]', x=85.68, y=41.10, z=-292.59]
+[02Mar2025 03:07:27.675] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['MRCHSSS'/4022, l='ServerLevel[world]', x=85.46, y=42.08, z=-292.36], dimensionLocationPath overworld
+[02Mar2025 03:07:27.675] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['MRCHSSS'/4022, l='ServerLevel[world]', x=85.46, y=42.08, z=-292.36] in list []
+[02Mar2025 03:07:28.775] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['MRCHSSS'/4022, l='ServerLevel[world]', x=84.97, y=41.00, z=-292.03]
+[02Mar2025 03:07:29.078] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['MRCHSSS'/4022, l='ServerLevel[world]', x=85.05, y=41.44, z=-292.12], dimensionLocationPath overworld
+[02Mar2025 03:07:29.079] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['MRCHSSS'/4022, l='ServerLevel[world]', x=85.05, y=41.44, z=-292.12] in list []
+[02Mar2025 03:07:30.376] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['MRCHSSS'/4022, l='ServerLevel[world]', x=85.17, y=41.11, z=-292.08]
+[02Mar2025 03:07:31.176] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['MRCHSSS'/4022, l='ServerLevel[world]', x=85.38, y=41.45, z=-292.50], dimensionLocationPath overworld
+[02Mar2025 03:07:31.176] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['MRCHSSS'/4022, l='ServerLevel[world]', x=85.38, y=41.45, z=-292.50] in list []
+[02Mar2025 03:07:32.125] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['MRCHSSS'/4022, l='ServerLevel[world]', x=85.03, y=41.13, z=-292.92]
+[02Mar2025 03:07:32.626] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['MRCHSSS'/4022, l='ServerLevel[world]', x=85.32, y=41.51, z=-292.94], dimensionLocationPath overworld
+[02Mar2025 03:07:32.626] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['MRCHSSS'/4022, l='ServerLevel[world]', x=85.32, y=41.51, z=-292.94] in list []
+[02Mar2025 03:07:36.473] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['MRCHSSS'/4022, l='ServerLevel[world]', x=85.69, y=41.06, z=-292.44]
+[02Mar2025 03:07:38.027] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['MRCHSSS'/4022, l='ServerLevel[world]', x=83.78, y=41.51, z=-295.43], dimensionLocationPath overworld
+[02Mar2025 03:07:38.027] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['MRCHSSS'/4022, l='ServerLevel[world]', x=83.78, y=41.51, z=-295.43] in list []
+[02Mar2025 03:07:46.340] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[02Mar2025 03:07:46.340] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Mar2025 03:07:46.340] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Mar2025 03:07:46.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 03:07:46.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 03:07:46.469] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[02Mar2025 03:08:14.506] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/10142, l='ServerLevel[world]', x=86.31, y=42.33, z=-305.66], dimensionLocationPath overworld
+[02Mar2025 03:08:14.506] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/10142, l='ServerLevel[world]', x=86.31, y=42.33, z=-305.66] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@fb6]
+[02Mar2025 03:08:15.005] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/10142, l='ServerLevel[world]', x=86.28, y=42.09, z=-306.25, removed=DISCARDED]
+[02Mar2025 03:08:15.055] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/10143, l='ServerLevel[world]', x=87.37, y=42.42, z=-305.55], dimensionLocationPath overworld
+[02Mar2025 03:08:15.055] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/10143, l='ServerLevel[world]', x=87.37, y=42.42, z=-305.55] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@fb6]
+[02Mar2025 03:08:15.555] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/10143, l='ServerLevel[world]', x=86.94, y=42.18, z=-305.13, removed=DISCARDED]
+[02Mar2025 03:08:45.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> pica cobre
+[02Mar2025 03:09:01.778] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['MRCHSSS'/4022, l='ServerLevel[world]', x=91.57, y=41.00, z=-303.50]
+[02Mar2025 03:09:50.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> tiene sun horno
+[02Mar2025 03:11:30.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> tienes que probar las armas celestiales
+[02Mar2025 03:11:50.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> cuidao
+[02Mar2025 03:11:53.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> un super tonto
+[02Mar2025 03:12:13.975] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[02Mar2025 03:12:26.821] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[02Mar2025 03:12:46.342] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[02Mar2025 03:12:46.342] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Mar2025 03:12:46.342] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Mar2025 03:12:46.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 03:12:46.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 03:12:46.471] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[02Mar2025 03:13:01.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> a
+[02Mar2025 03:13:38.473] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[02Mar2025 03:13:38.477] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[02Mar2025 03:13:47.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> yo tambien
+[02Mar2025 03:13:54.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> hambre hambre
+[02Mar2025 03:13:59.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> con las manos
+[02Mar2025 03:14:03.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> con que me va a agarrar
+[02Mar2025 03:14:05.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> con los pies
+[02Mar2025 03:14:19.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS has made the advancement [Crops of the Wild]
+[02Mar2025 03:14:20.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> toma
+[02Mar2025 03:14:34.424] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['MRCHSSS'/4022, l='ServerLevel[world]', x=68.67, y=41.00, z=-288.22], dimensionLocationPath overworld
+[02Mar2025 03:14:34.425] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['MRCHSSS'/4022, l='ServerLevel[world]', x=68.67, y=41.00, z=-288.22] in list []
+[02Mar2025 03:15:15.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shuwii> tendre que comer carne cruda

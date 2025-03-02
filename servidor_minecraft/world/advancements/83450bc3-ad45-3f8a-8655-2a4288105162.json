@@ -3401,78 +3401,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 03:02:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 03:02:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 03:02:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 03:02:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 03:02:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 03:02:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 03:02:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 03:02:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 03:02:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 03:02:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 03:02:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 03:02:46 +0000"
-    },
-    "done": false
-  },
   "regions_unexplored:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-03-02 02:57:17 +0000"
@@ -3605,6 +3533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-03-02 03:10:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-03-02 03:02:46 +0000"
@@ -3614,6 +3548,12 @@
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-03-02 02:57:17 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_tower_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-02 03:10:53 +0000"
     },
     "done": true
   },
@@ -3719,9 +3659,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-03-02 03:08:49 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/purple_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-03-02 03:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-02 03:10:53 +0000"
     },
     "done": true
   },
@@ -3761,6 +3713,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/decayed_workbench": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-02 03:11:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/mine": {
     "criteria": {
       "has_iron": "2025-03-02 03:00:09 +0000"
@@ -3776,6 +3734,12 @@
   "ironchest:recipes/decorations/chests/iron_gold_chest": {
     "criteria": {
       "has_gold_ingot": "2025-03-02 02:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-02 03:11:09 +0000"
     },
     "done": true
   },
@@ -3959,6 +3923,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/copper_basic_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-02 03:10:53 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_boat": {
     "criteria": {
       "in_water": "2025-03-02 02:57:17 +0000"
@@ -3980,6 +3950,12 @@
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2025-03-02 03:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-02 03:10:39 +0000"
     },
     "done": true
   },
@@ -4109,6 +4085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-03-02 03:08:19 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/stone_basic_shield": {
     "criteria": {
       "has_cobblestone": "2025-03-02 02:41:38 +0000"
@@ -4127,9 +4109,33 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-02 03:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-02 03:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-02 03:11:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-03-02 02:54:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-02 03:10:39 +0000"
     },
     "done": true
   },
@@ -4148,6 +4154,12 @@
   "regions_unexplored:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-03-02 02:57:17 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/emerald": {
+    "criteria": {
+      "has_emerald": "2025-03-02 03:08:19 +0000"
     },
     "done": true
   },
@@ -4172,6 +4184,12 @@
   "enemyexpansion:vampire_slayer": {
     "criteria": {
       "vampire_slayer_0": "2025-03-02 02:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-02 03:11:09 +0000"
     },
     "done": true
   },
@@ -4232,6 +4250,12 @@
   "valhelsia_furniture:recipes/decorations/magenta_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-03-02 02:53:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-02 03:11:09 +0000"
     },
     "done": true
   },
@@ -4379,6 +4403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-02 03:11:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:silverfish": "2025-03-02 02:41:26 +0000"
@@ -4431,6 +4461,12 @@
   "l2weaponry:recipes/tools/generated/craft/iron_scythe_enchanted": {
     "criteria": {
       "has_iron_ingot": "2025-03-02 03:00:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-03-02 03:10:53 +0000"
     },
     "done": true
   },
@@ -4497,6 +4533,12 @@
   "regions_unexplored:recipes/decorations/spruce_shrub": {
     "criteria": {
       "has_spruce_sapling": "2025-03-02 02:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-02 03:08:17 +0000"
     },
     "done": true
   },
@@ -4572,6 +4614,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-02 03:10:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:silverfish": "2025-03-02 02:41:26 +0000"
@@ -4587,6 +4635,12 @@
   "valhelsia_furniture:recipes/decorations/brown_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-03-02 02:53:53 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-02 03:10:53 +0000"
     },
     "done": true
   },
@@ -4617,6 +4671,12 @@
   "valhelsia_furniture:recipes/decorations/purple_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-03-02 02:53:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-02 03:10:39 +0000"
     },
     "done": true
   },
@@ -4686,6 +4746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-02 03:10:53 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-03-02 02:53:53 +0000"
@@ -4707,6 +4773,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-03-02 02:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-03-02 03:08:49 +0000"
     },
     "done": true
   },
@@ -4812,6 +4884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-02 03:11:09 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/hay_cherry_chair": {
     "criteria": {
       "has_hay_block": "2025-03-02 02:55:04 +0000"
@@ -4833,6 +4911,12 @@
   "valhelsia_structures:recipes/building_blocks/orange_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-03-02 03:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-02 03:11:09 +0000"
     },
     "done": true
   },
@@ -4869,6 +4953,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-03-02 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/manual": {
+    "criteria": {
+      "has_book": "2025-03-02 03:10:39 +0000"
     },
     "done": true
   },
@@ -4920,6 +5010,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/lapis_lazuli_basic_shield": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-02 03:08:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-03-02 03:00:09 +0000"
@@ -4947,6 +5043,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-03-02 03:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-02 03:08:17 +0000"
     },
     "done": true
   },
@@ -5004,6 +5106,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-02 03:10:39 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/tools/generated/craft/iron_battle_axe_enchanted": {
     "criteria": {
       "has_iron_ingot": "2025-03-02 03:00:09 +0000"
@@ -5022,6 +5130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-02 03:11:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-03-02 03:00:01 +0000"
@@ -5031,6 +5145,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-03-02 03:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-02 03:11:09 +0000"
     },
     "done": true
   },
@@ -5085,6 +5205,12 @@
   "valhelsia_furniture:recipes/decorations/green_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-03-02 02:53:53 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-03-02 03:08:19 +0000"
     },
     "done": true
   },
@@ -5214,6 +5340,12 @@
     },
     "done": true
   },
+  "bno:recipes/misc/copper_nugget": {
+    "criteria": {
+      "copper_nugget_from_ingot": "2025-03-02 03:10:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-03-02 02:52:47 +0000"
@@ -5241,6 +5373,12 @@
   "securitycraft:recipes/misc/harming_module": {
     "criteria": {
       "has_iron": "2025-03-02 03:00:09 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-02 03:10:53 +0000"
     },
     "done": true
   },
@@ -5423,6 +5561,12 @@
   "justhammers:recipes/tools/gold_hammer": {
     "criteria": {
       "has_material": "2025-03-02 02:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-03-02 03:08:49 +0000"
     },
     "done": true
   },
