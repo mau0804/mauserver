@@ -6513,3 +6513,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Mar2025 04:15:14.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS has completed the challenge [I'm not sugar coating it]
 [02Mar2025 04:15:16.707] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [02Mar2025 04:15:49.723] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Engineer'/18254, l='ServerLevel[world]', x=180.56, y=79.00, z=-459.02] died, message: 'Engineer was slain by Decaying Zombie'
+[02Mar2025 04:16:23.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS has made the advancement [Dark Metallurgy]
+[02Mar2025 04:16:58.822] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Oceanographer'/18289, l='ServerLevel[world]', x=249.30, y=66.05, z=-422.45] died, message: 'Oceanographer was slain by The Wheezer'
+[02Mar2025 04:17:46.342] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Mar2025 04:17:46.342] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Mar2025 04:19:42.218] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/18285, l='ServerLevel[world]', x=252.50, y=77.00, z=-355.81] died, message: 'Farmer was slain by Wechuge'
+[02Mar2025 04:20:11.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS has completed the challenge [Fury of The Frost]
+[02Mar2025 04:20:19.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has completed the challenge [Fury of The Frost]
+[02Mar2025 04:20:33.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS has completed the challenge [Metephor? Never heard of it!]
+[02Mar2025 04:20:49.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has completed the challenge [Metephor? Never heard of it!]
+[02Mar2025 04:22:46.343] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[02Mar2025 04:22:46.344] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[02Mar2025 04:25:27.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRCHSSS lost connection: Timed out
+[02Mar2025 04:25:27.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRCHSSS left the game
+[02Mar2025 04:25:27.322] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MRCHSSS
+[02Mar2025 04:25:41.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii fell from a high place
