@@ -689,12 +689,6 @@
     },
     "done": true
   },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 02:30:08 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/orange_sbed": {
     "criteria": {
       "has_journal": "2025-03-02 02:30:07 +0000"
@@ -718,12 +712,6 @@
       "has_journal": "2025-03-02 02:30:07 +0000"
     },
     "done": true
-  },
-  "regions_unexplored:regions_explored": {
-    "criteria": {
-      "frozen_tundra": "2025-03-02 02:30:08 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/decorations/sourcestone_6": {
     "criteria": {
@@ -802,12 +790,6 @@
       "has_journal": "2025-03-02 02:30:07 +0000"
     },
     "done": true
-  },
-  "regions_unexplored:pioneer": {
-    "criteria": {
-      "frozen_tundra": "2025-03-02 02:30:08 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/misc/ritual_conjure_island_plains": {
     "criteria": {
@@ -1409,12 +1391,6 @@
     },
     "done": true
   },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 02:30:08 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/purple_sbed": {
     "criteria": {
       "has_journal": "2025-03-02 02:30:07 +0000"
@@ -1454,12 +1430,6 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-03-02 02:30:07 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:parent": {
-    "criteria": {
-      "load_in_world": "2025-03-02 02:30:08 +0000"
     },
     "done": true
   },
@@ -1643,12 +1613,6 @@
     },
     "done": true
   },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 02:30:08 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/building_blocks/stripped_red_archwood_wood": {
     "criteria": {
       "has_journal": "2025-03-02 02:30:07 +0000"
@@ -1763,12 +1727,6 @@
     },
     "done": true
   },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 02:30:08 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-03-02 02:30:07 +0000"
@@ -1832,6 +1790,1776 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-03-02 02:30:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 02:30:08 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "frozen_tundra": "2025-03-02 02:30:08 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "frozen_tundra": "2025-03-02 02:30:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 02:30:08 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-03-02 02:30:08 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 02:30:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 02:30:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-03-02 02:33:11 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-03-02 02:33:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-03-02 02:33:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2025-03-02 02:33:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-03-02 02:33:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-02 02:33:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/oak_post": {
+    "criteria": {
+      "has_item": "2025-03-02 02:33:11 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/wooden_basic_shield": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/oak_table": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brown_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/orange_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/red_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/green_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/wooden_tower_shield": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/oak_desk": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/oak_desk_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/lime_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/black_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blue_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/white_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pink_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magenta_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-02 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/obsidian_boots": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/perkin": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/sonic_boom_wand": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/dungeon_sword": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/etherite_block": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/obsidian_steel_ingot": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/amethyst_shovel": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/amethyst_chestplate": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/copper_shovel": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/etherite_hoe_2": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/etherite_leggings": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/allay_steel_shovel": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/allay_steel_axe_2": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/echoium_ingot_from_block": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/copper_boots": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/echoium_boots": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/dungeon_hammer": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/sepachanted_book": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/allay_steel_ingot_from_block": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/echoium_shovel": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/obsidian_axe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/obsidian_steel_nugget": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/dungeon_steel_nugget": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/flint_axe_2": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/etherite_axe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/amethyst_axe_2": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/etherite_nugget": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/allay_steel_boots": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/obsidian_leggings": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/copper_hoe_2": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/obsidian_steel_block": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/dungeon_steel_ingot_from_nugget": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/etherite_ingot": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/dungeon_axe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/disc_sword": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/flint_shovel": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/amethyst_hoe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/prismarine_alloy_ingot": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/obsidian_shovel": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/etherite_axe_2": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/obsidian_hoe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/copper_axe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/root": {
+    "criteria": {
+      "obtain_crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/obsidian_sword": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/obsidian_steel_ingot_from_block": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/allay_steel_axe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/echoium_sword": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/etherite_chestplate": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/heart_of_the_dry": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/lacerator": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/echoium_pickaxe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/copper_pickaxe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/etherite_pickaxe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/etherite_helmet": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/flint_hoe_2": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/echoium_ingot_from_nugget": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/flint_pickaxe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/copper_sword": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/echoium_chestplate": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/dungeon_axe_2": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/amethyst_helmet": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/copper_helmet": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/disc_axe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/disenchanted_book": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/copper_leggings": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/copper_chestplate": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/copper_axe_2": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/amethyst_pickaxe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/allay_steel_chestplate": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/obsidian_pickaxe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/obsidian_chestplate": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/etherite_hoe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/obsidian_hoe_2": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/echoium_leggings": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/amethyst_boots": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/dungeon_steel_block": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/echoium_axe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/flint_sword": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/abyss_blade": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/flint_hoe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/obsidian_axe_2": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/duplichanted_book": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/echoium_block": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/amethyst_sword": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/disc_pickaxe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/etherite_boots": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/decorations/starlit_factory_update_fix": {
+    "criteria": {
+      "has_item": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/echoium_hoe_2": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/allay_steel_pickaxe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/allay_steel_sword": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/obsidian_steel_ingot_from_nugget": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/dungeon_steel_ingot_from_block": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/purifichanted_book": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/etherite_sword": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/echoium_helmet": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/obsidian_helmet": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/echoium_hoe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/reinforced_book": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/flint_axe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/etherite_totem": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/dungeon_pickaxe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/allay_steel_ingot_from_nugget": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/allay_steel_leggings": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/copper_hoe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/etherite_totem_2": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/combat/trident": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/amethyst_hoe_2": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/echoium_nugget": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/allay_steel_nugget": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/etherite_ingot_from_nugget": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/allay_steel_hoe_2": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/etherite_ingot_from_block": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/echoium_ingot": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/allay_steel_helmet": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/amethyst_leggings": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/etherite_shovel": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/echoium_axe_2": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/amethyst_axe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/creative_reinforced_book": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/allay_steel_block": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/allay_steel_hoe": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "composite_material:recipes/composite_material/disc_axe_2": {
+    "criteria": {
+      "crafting_table": "2025-03-02 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_bamboo_fence": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_crimson_fence": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/combat/slingshot": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/decorations/shard_torch": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_warped_fence": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/misc/misc/reinforced_handle": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_acacia_fence": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/decorations/torch_ditchbulb_paste": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/decorations/undergarden_scaffolding": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_jungle_fence": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_cherry_fence": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_spruce_fence": {
+    "criteria": {
+      "has_stick": "2025-03-02 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-03-02 02:33:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-03-02 02:33:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-03-02 02:33:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-03-02 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-03-02 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-03-02 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-03-02 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-03-02 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-03-02 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-03-02 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-03-02 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-03-02 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-03-02 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-03-02 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-03-02 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-03-02 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-03-02 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-03-02 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-03-02 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-03-02 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-03-02 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-03-02 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-03-02 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-03-02 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-03-02 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-02 02:40:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/stone_basic_shield": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-03-02 02:40:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:silverfish": "2025-03-02 02:41:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-03-02 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:silverfish": "2025-03-02 02:41:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2025-03-02 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/stone_tower_shield": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-02 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-03-02 02:40:40 +0000"
     },
     "done": true
   },
