@@ -1801,13 +1801,15 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
-      "frozen_tundra": "2025-03-02 02:30:08 +0000"
+      "frozen_tundra": "2025-03-02 02:30:08 +0000",
+      "icy_heights": "2025-03-02 03:26:15 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
-      "frozen_tundra": "2025-03-02 02:30:08 +0000"
+      "frozen_tundra": "2025-03-02 02:30:08 +0000",
+      "icy_heights": "2025-03-02 03:26:15 +0000"
     },
     "done": false
   },
@@ -3581,6 +3583,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-03-02 03:31:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-03-02 02:58:33 +0000"
@@ -3662,6 +3670,12 @@
   "valhelsia_structures:recipes/building_blocks/cyan_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-03-02 03:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-03-02 03:27:13 +0000"
     },
     "done": true
   },
@@ -3977,9 +3991,21 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-03-02 03:30:54 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/paper_wall": {
     "criteria": {
       "has_bamboo": "2025-03-02 03:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-03-02 03:30:53 +0000"
     },
     "done": true
   },
@@ -4004,6 +4030,12 @@
   "undergarden:recipes/tools/catalyst": {
     "criteria": {
       "has_gold": "2025-03-02 02:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-02 03:30:53 +0000"
     },
     "done": true
   },
@@ -4502,7 +4534,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-03-02 02:53:47 +0000",
-      "bread": "2025-03-02 02:55:47 +0000"
+      "bread": "2025-03-02 02:55:47 +0000",
+      "golden_apple": "2025-03-02 03:31:26 +0000"
     },
     "done": false
   },
@@ -4563,6 +4596,12 @@
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-03-02 02:53:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-02 03:27:29 +0000"
     },
     "done": true
   },
@@ -4644,6 +4683,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/mining_bench": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-03-02 03:30:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
       "has_cobblestone": "2025-03-02 02:41:38 +0000"
@@ -4688,7 +4733,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:silverfish": "2025-03-02 02:41:26 +0000"
+      "minecraft:silverfish": "2025-03-02 02:41:26 +0000",
+      "minecraft:stray": "2025-03-02 03:30:09 +0000"
     },
     "done": false
   },
@@ -4749,6 +4795,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-03-02 02:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-02 03:27:13 +0000"
     },
     "done": true
   },
@@ -5184,6 +5236,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/building_blocks/stripped_spruce_post": {
+    "criteria": {
+      "has_item": "2025-03-02 03:27:13 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/tools/generated/craft/iron_throwing_axe_enchanted": {
     "criteria": {
       "has_iron_ingot": "2025-03-02 03:00:09 +0000"
@@ -5526,6 +5584,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-02 03:27:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-03-02 02:53:53 +0000"
@@ -5568,6 +5632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-03-02 03:30:53 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/tools/generated/craft/gold_plate_shield_enchanted": {
     "criteria": {
       "has_gold_ingot": "2025-03-02 02:58:33 +0000"
@@ -5578,6 +5648,7 @@
     "criteria": {
       "minecraft:frozen_river": "2025-03-02 02:54:25 +0000",
       "minecraft:snowy_plains": "2025-03-02 02:45:54 +0000",
+      "minecraft:dripstone_caves": "2025-03-02 03:30:42 +0000",
       "minecraft:snowy_taiga": "2025-03-02 02:54:55 +0000"
     },
     "done": false

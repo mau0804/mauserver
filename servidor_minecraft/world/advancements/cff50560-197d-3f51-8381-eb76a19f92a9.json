@@ -1747,13 +1747,17 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
-      "frozen_tundra": "2025-03-02 02:37:26 +0000"
+      "frozen_tundra": "2025-03-02 02:37:26 +0000",
+      "cold_boreal_taiga": "2025-03-02 03:27:20 +0000",
+      "icy_heights": "2025-03-02 03:26:11 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
-      "frozen_tundra": "2025-03-02 02:37:26 +0000"
+      "frozen_tundra": "2025-03-02 02:37:26 +0000",
+      "cold_boreal_taiga": "2025-03-02 03:27:20 +0000",
+      "icy_heights": "2025-03-02 03:26:11 +0000"
     },
     "done": false
   },
@@ -1933,6 +1937,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-03-02 03:29:20 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/etherite_block": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
@@ -2038,6 +2048,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-03-02 02:55:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-02 03:32:42 +0000"
     },
     "done": true
   },
@@ -2197,6 +2213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-03-02 03:30:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-03-02 03:11:21 +0000"
@@ -2344,6 +2366,12 @@
   "composite_material:recipes/composite_material/obsidian_steel_nugget": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-02 03:29:20 +0000"
     },
     "done": true
   },
@@ -2605,6 +2633,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-03-02 03:29:29 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/green_painted_planks": {
     "criteria": {
       "has_planks": "2025-03-02 02:49:53 +0000"
@@ -2767,6 +2801,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-02 03:29:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
     "criteria": {
       "has_book": "2025-03-02 02:55:47 +0000"
@@ -2887,6 +2927,12 @@
     },
     "done": true
   },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2025-03-02 03:28:58 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/obsidian_sword": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
@@ -2926,6 +2972,12 @@
   "valhelsia_furniture:recipes/decorations/magenta_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-03-02 02:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-02 03:29:20 +0000"
     },
     "done": true
   },
@@ -3013,6 +3065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-02 03:32:42 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/hay_jungle_chair": {
     "criteria": {
       "has_hay_block": "2025-03-02 03:16:45 +0000"
@@ -3034,6 +3092,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-03-02 02:51:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-03-02 03:29:00 +0000"
     },
     "done": true
   },
@@ -3268,6 +3332,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/building_blocks/bone_pile": {
+    "criteria": {
+      "has_bone": "2025-03-02 03:29:00 +0000"
+    },
+    "done": true
+  },
   "morevillagers:recipes/hunting_post": {
     "criteria": {
       "has_arrow": "2025-03-02 02:55:16 +0000"
@@ -3390,7 +3460,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2025-03-02 02:59:59 +0000"
+      "minecraft:skeleton": "2025-03-02 03:28:21 +0000",
+      "minecraft:spider": "2025-03-02 02:59:59 +0000",
+      "minecraft:creeper": "2025-03-02 03:32:37 +0000",
+      "minecraft:stray": "2025-03-02 03:30:56 +0000"
     },
     "done": false
   },
@@ -3439,6 +3512,12 @@
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-02 03:32:42 +0000"
     },
     "done": true
   },
@@ -3583,6 +3662,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-03-02 02:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-03-02 03:30:04 +0000"
     },
     "done": true
   },
@@ -3796,6 +3881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-02 03:32:42 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/allay_steel_pickaxe": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
@@ -3841,6 +3932,12 @@
   "iammusicplayer:recipes/misc/manual": {
     "criteria": {
       "has_book": "2025-03-02 02:55:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-02 03:32:42 +0000"
     },
     "done": true
   },
@@ -4138,6 +4235,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/misc/bone_pile_block_from_bone": {
+    "criteria": {
+      "has_bone": "2025-03-02 03:29:00 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
     "criteria": {
       "has_planks": "2025-03-02 02:49:53 +0000"
@@ -4165,6 +4268,12 @@
   "regions_unexplored:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-03-02 03:29:29 +0000"
     },
     "done": true
   },
@@ -4228,6 +4337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-03-02 03:28:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-03-02 02:49:53 +0000"
@@ -4249,6 +4364,12 @@
   "undergarden:recipes/transportation/wigglewood_boat": {
     "criteria": {
       "in_water": "2025-03-02 02:57:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-03-02 03:29:29 +0000"
     },
     "done": true
   },
@@ -4534,6 +4655,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-03-02 03:29:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_chainmail_leggings": "2025-03-02 02:58:32 +0000"
@@ -4633,6 +4760,12 @@
   "composite_material:recipes/composite_material/allay_steel_block": {
     "criteria": {
       "crafting_table": "2025-03-02 02:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-02 03:32:42 +0000"
     },
     "done": true
   },
